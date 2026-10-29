@@ -1,0 +1,4 @@
+[submodule "SmartBite-Backend-API"]
+	path = SmartBite-Backend-API
+	url = https://github.com/EngineeringLabX/SmartBite-Backend-API.git
+	branch = main
